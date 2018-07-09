@@ -12,5 +12,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         Log.v("MainActivity","nothing");
+        Log.v("MainActivity","add a line.");
     }
 }

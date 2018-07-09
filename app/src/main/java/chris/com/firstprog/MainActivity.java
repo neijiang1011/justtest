@@ -15,6 +15,7 @@ public class MainActivity extends AppCompatActivity {
         Log.v("MainActivity","add a line.");
         Log.v("MainActivity","add second line.");
         Log.v("MainActivity","add third line.");
+        Log.v("MainActivity","add fourth line.");
 
     }
 }
